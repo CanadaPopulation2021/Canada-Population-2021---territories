@@ -1,159 +1,159 @@
-Geographic_name;Geographic_area_type_abbreviation;Province_or_territory_abbreviation;Population_2021
-Corner Brook;CA;N.L.;29762
-Gander;CA;N.L.;13414
-Grand Falls-Windsor;CA;N.L.;13853
-St. John's;CMA;N.L.;212579
-Cape Breton;CA;N.S.;98318
-Halifax;CMA;N.S.;465703
-Kentville;CA;N.S.;26929
-New Glasgow;CA;N.S.;34397
-Truro;CA;N.S.;46157
-Bathurst;CA;N.B.;31387
-Campbellton;CA;N.B. / Que.;1333
-Campbellton (New Brunswick part / partie du Nouveau-Brunswick);CA;N.B.;11986
-Campbellton (partie du Québec / Quebec part);CA;Que.;1344
-Edmundston;CA;N.B.;22144
-Fredericton;CMA;N.B.;10861
-Miramichi;CA;N.B.;27593
-Moncton;CMA;N.B.;157717
-Saint John;CMA;N.B.;130613
-Alma;CA;Que.;30331
-Amos;CA;Que.;18873
-Baie-Comeau;CA;Que.;26643
-Cowansville;CA;Que.;15234
-Dolbeau-Mistassini;CA;Que.;15306
-Drummondville;CMA;Que.;10161
-Granby;CA;Que.;90833
-Joliette;CA;Que.;52706
-Lachute;CA;Que.;141
-Matane;CA;Que.;18474
-Montréal;CMA;Que.;4291732
-Québec;CMA;Que.;839311
-Rimouski;CA;Que.;53944
-Rivière-du-Loup;CA;Que.;30025
-Rouyn-Noranda;CA;Que.;42313
-Saguenay;CMA;Que.;161567
-Saint-Georges;CA;Que.;34833
-Saint-Hyacinthe;CA;Que.;5998
-Sainte-Agathe-des-Monts;CA;Que.;19892
-Sainte-Marie;CA;Que.;13134
-Salaberry-de-Valleyfield;CA;Que.;42787
-Sept-Îles;CA;Que.;27729
-Shawinigan;CA;Que.;4962
-Sherbrooke;CMA;Que.;227398
-Sorel-Tracy;CA;Que.;41934
-Thetford Mines;CA;Que.;28287
-Trois-Rivières;CMA;Que.;161489
-Val-d'Or;CA;Que.;34037
-Victoriaville;CA;Que.;52936
-Barrie;CMA;Ont.;212856
-Belleville - Quinte West;CMA;Ont.;111184
-Brantford;CMA;Ont.;144162
-Brockville;CA;Ont.;31661
-Centre Wellington;CA;Ont.;31093
-Chatham-Kent;CA;Ont.;104316
-Cobourg;CA;Ont.;20519
-Collingwood;CA;Ont.;24811
-Cornwall;CA;Ont.;61415
-Elliot Lake;CA;Ont.;11372
-Essa;CA;Ont.;2297
-Greater Sudbury / Grand Sudbury;CMA;Ont.;170605
-Guelph;CMA;Ont.;165588
-Hamilton;CMA;Ont.;785184
-Hawkesbury;CA;Ont. / Que.;1201
-Hawkesbury (Ontario part / partie de l'Ontario);CA;Ont.;10194
-Hawkesbury (partie du Québec / Quebec part);CA;Que.;1816
-Ingersoll;CA;Ont.;13693
-Kawartha Lakes;CA;Ont.;79247
-Kenora;CA;Ont.;14967
-Kingston;CMA;Ont.;172546
-Kitchener - Cambridge - Waterloo;CMA;Ont.;575847
-London;CMA;Ont.;543551
-Midland;CA;Ont.;27894
-Norfolk;CA;Ont.;6749
-North Bay;CA;Ont.;71736
-Orillia;CA;Ont.;33411
-Oshawa;CMA;Ont.;415311
-Ottawa - Gatineau;CMA;Ont. / Que.;1488307
-Ottawa - Gatineau (Ontario part / partie de l'Ontario);CMA;Ont.;1135014
-Ottawa - Gatineau (partie du Québec / Quebec part);CMA;Que.;353293
-Owen Sound;CA;Ont.;32712
-Pembroke;CA;Ont.;23814
-Petawawa;CA;Ont.;1816
-Peterborough;CMA;Ont.;128624
-Port Hope;CA;Ont.;17294
-Sarnia;CA;Ont.;97592
-Sault Ste. Marie;CA;Ont.;76731
-St. Catharines - Niagara;CMA;Ont.;433604
-Stratford;CA;Ont.;33232
-Thunder Bay;CMA;Ont.;123258
-Tillsonburg;CA;Ont.;18615
-Timmins;CA;Ont.;41145
-Toronto;CMA;Ont.;6202225
-Wasaga Beach;CA;Ont.;24862
-Windsor;CMA;Ont.;42263
-Woodstock;CA;Ont.;46705
-Brandon;CA;Man.;54268
-Portage la Prairie;CA;Man.;1327
-Steinbach;CA;Man.;17806
-Thompson;CA;Man.;13035
-Winkler;CA;Man.;32655
-Winnipeg;CMA;Man.;834678
-Estevan;CA;Sask.;12798
-Moose Jaw;CA;Sask.;34872
-North Battleford;CA;Sask.;19374
-Prince Albert;CA;Sask.;45718
-Regina;CMA;Sask.;249217
-Saskatoon;CMA;Sask.;31748
-Swift Current;CA;Sask.;18745
-Weyburn;CA;Sask.;12247
-Yorkton;CA;Sask.;19859
-Brooks;CA;Alta.;14924
-Calgary;CMA;Alta.;1481806
-Camrose;CA;Alta.;18772
-Canmore;CA;Alta.;1599
-Edmonton;CMA;Alta.;1418118
-Grande Prairie;CA;Alta.;64141
-High River;CA;Alta.;14324
-Lacombe;CA;Alta.;13396
-Lethbridge;CMA;Alta.;123847
-Lloydminster;CA;Alta. / Sask.;36508
-Lloydminster (Alberta part / partie de l'Alberta);CA;Alta.;19739
-Lloydminster (Saskatchewan part / partie de la Saskatchewan);CA;Sask.;16769
-Medicine Hat;CA;Alta.;76376
-Okotoks;CA;Alta.;30405
-Red Deer;CMA;Alta.;100844
-Strathmore;CA;Alta.;14339
-Sylvan Lake;CA;Alta.;16514
-Wetaskiwin;CA;Alta.;12594
-Wood Buffalo;CA;Alta.;73837
-Abbotsford - Mission;CMA;B.C.;195726
-Campbell River;CA;B.C.;40704
-Chilliwack;CMA;B.C.;113767
-Courtenay;CA;B.C.;63282
-Cranbrook;CA;B.C.;2704
-Dawson Creek;CA;B.C.;17878
-Duncan;CA;B.C.;47582
-Fort St. John;CA;B.C.;28729
-Kamloops;CMA;B.C.;114142
-Kelowna;CMA;B.C.;222162
-Ladysmith;CA;B.C.;15501
-Nanaimo;CMA;B.C.;115459
-Nelson;CA;B.C.;19119
-Parksville;CA;B.C.;31054
-Penticton;CA;B.C.;4738
-Port Alberni;CA;B.C.;25786
-Powell River;CA;B.C.;17825
-Prince George;CA;B.C.;8949
-Prince Rupert;CA;B.C.;13442
-Quesnel;CA;B.C.;23113
-Salmon Arm;CA;B.C.;19705
-Squamish;CA;B.C.;24232
-Terrace;CA;B.C.;19606
-Trail;CA;B.C.;14268
-Vancouver;CMA;B.C.;2642825
-Vernon;CA;B.C.;67086
-Victoria;CMA;B.C.;397237
-Williams Lake;CA;B.C.;23608
-Whitehorse;CA;Y.T.;31913
-Yellowknife;CA;N.W.T.;2034
+Geographic_name,Geographic_area_type_abbreviation,Province_or_territory_abbreviation,Population_2021
+Corner Brook,CA,N.L.,29762
+Gander,CA,N.L.,13414
+Grand Falls-Windsor,CA,N.L.,13853
+St. John's,CMA,N.L.,212579
+Cape Breton,CA,N.S.,98318
+Halifax,CMA,N.S.,465703
+Kentville,CA,N.S.,26929
+New Glasgow,CA,N.S.,34397
+Truro,CA,N.S.,46157
+Bathurst,CA,N.B.,31387
+Campbellton,CA,N.B. / Que.,1333
+Campbellton (New Brunswick part / partie du Nouveau-Brunswick),CA,N.B.,11986
+Campbellton (partie du Québec / Quebec part),CA,Que.,1344
+Edmundston,CA,N.B.,22144
+Fredericton,CMA,N.B.,10861
+Miramichi,CA,N.B.,27593
+Moncton,CMA,N.B.,157717
+Saint John,CMA,N.B.,130613
+Alma,CA,Que.,30331
+Amos,CA,Que.,18873
+Baie-Comeau,CA,Que.,26643
+Cowansville,CA,Que.,15234
+Dolbeau-Mistassini,CA,Que.,15306
+Drummondville,CMA,Que.,10161
+Granby,CA,Que.,90833
+Joliette,CA,Que.,52706
+Lachute,CA,Que.,141
+Matane,CA,Que.,18474
+Montréal,CMA,Que.,4291732
+Québec,CMA,Que.,839311
+Rimouski,CA,Que.,53944
+Rivière-du-Loup,CA,Que.,30025
+Rouyn-Noranda,CA,Que.,42313
+Saguenay,CMA,Que.,161567
+Saint-Georges,CA,Que.,34833
+Saint-Hyacinthe,CA,Que.,5998
+Sainte-Agathe-des-Monts,CA,Que.,19892
+Sainte-Marie,CA,Que.,13134
+Salaberry-de-Valleyfield,CA,Que.,42787
+Sept-Îles,CA,Que.,27729
+Shawinigan,CA,Que.,4962
+Sherbrooke,CMA,Que.,227398
+Sorel-Tracy,CA,Que.,41934
+Thetford Mines,CA,Que.,28287
+Trois-Rivières,CMA,Que.,161489
+Val-d'Or,CA,Que.,34037
+Victoriaville,CA,Que.,52936
+Barrie,CMA,Ont.,212856
+Belleville - Quinte West,CMA,Ont.,111184
+Brantford,CMA,Ont.,144162
+Brockville,CA,Ont.,31661
+Centre Wellington,CA,Ont.,31093
+Chatham-Kent,CA,Ont.,104316
+Cobourg,CA,Ont.,20519
+Collingwood,CA,Ont.,24811
+Cornwall,CA,Ont.,61415
+Elliot Lake,CA,Ont.,11372
+Essa,CA,Ont.,2297
+Greater Sudbury / Grand Sudbury,CMA,Ont.,170605
+Guelph,CMA,Ont.,165588
+Hamilton,CMA,Ont.,785184
+Hawkesbury,CA,Ont. / Que.,1201
+Hawkesbury (Ontario part / partie de l'Ontario),CA,Ont.,10194
+Hawkesbury (partie du Québec / Quebec part),CA,Que.,1816
+Ingersoll,CA,Ont.,13693
+Kawartha Lakes,CA,Ont.,79247
+Kenora,CA,Ont.,14967
+Kingston,CMA,Ont.,172546
+Kitchener - Cambridge - Waterloo,CMA,Ont.,575847
+London,CMA,Ont.,543551
+Midland,CA,Ont.,27894
+Norfolk,CA,Ont.,6749
+North Bay,CA,Ont.,71736
+Orillia,CA,Ont.,33411
+Oshawa,CMA,Ont.,415311
+Ottawa - Gatineau,CMA,Ont. / Que.,1488307
+Ottawa - Gatineau (Ontario part / partie de l'Ontario),CMA,Ont.,1135014
+Ottawa - Gatineau (partie du Québec / Quebec part),CMA,Que.,353293
+Owen Sound,CA,Ont.,32712
+Pembroke,CA,Ont.,23814
+Petawawa,CA,Ont.,1816
+Peterborough,CMA,Ont.,128624
+Port Hope,CA,Ont.,17294
+Sarnia,CA,Ont.,97592
+Sault Ste. Marie,CA,Ont.,76731
+St. Catharines - Niagara,CMA,Ont.,433604
+Stratford,CA,Ont.,33232
+Thunder Bay,CMA,Ont.,123258
+Tillsonburg,CA,Ont.,18615
+Timmins,CA,Ont.,41145
+Toronto,CMA,Ont.,6202225
+Wasaga Beach,CA,Ont.,24862
+Windsor,CMA,Ont.,42263
+Woodstock,CA,Ont.,46705
+Brandon,CA,Man.,54268
+Portage la Prairie,CA,Man.,1327
+Steinbach,CA,Man.,17806
+Thompson,CA,Man.,13035
+Winkler,CA,Man.,32655
+Winnipeg,CMA,Man.,834678
+Estevan,CA,Sask.,12798
+Moose Jaw,CA,Sask.,34872
+North Battleford,CA,Sask.,19374
+Prince Albert,CA,Sask.,45718
+Regina,CMA,Sask.,249217
+Saskatoon,CMA,Sask.,31748
+Swift Current,CA,Sask.,18745
+Weyburn,CA,Sask.,12247
+Yorkton,CA,Sask.,19859
+Brooks,CA,Alta.,14924
+Calgary,CMA,Alta.,1481806
+Camrose,CA,Alta.,18772
+Canmore,CA,Alta.,1599
+Edmonton,CMA,Alta.,1418118
+Grande Prairie,CA,Alta.,64141
+High River,CA,Alta.,14324
+Lacombe,CA,Alta.,13396
+Lethbridge,CMA,Alta.,123847
+Lloydminster,CA,Alta. / Sask.,36508
+Lloydminster (Alberta part / partie de l'Alberta),CA,Alta.,19739
+Lloydminster (Saskatchewan part / partie de la Saskatchewan),CA,Sask.,16769
+Medicine Hat,CA,Alta.,76376
+Okotoks,CA,Alta.,30405
+Red Deer,CMA,Alta.,100844
+Strathmore,CA,Alta.,14339
+Sylvan Lake,CA,Alta.,16514
+Wetaskiwin,CA,Alta.,12594
+Wood Buffalo,CA,Alta.,73837
+Abbotsford - Mission,CMA,B.C.,195726
+Campbell River,CA,B.C.,40704
+Chilliwack,CMA,B.C.,113767
+Courtenay,CA,B.C.,63282
+Cranbrook,CA,B.C.,2704
+Dawson Creek,CA,B.C.,17878
+Duncan,CA,B.C.,47582
+Fort St. John,CA,B.C.,28729
+Kamloops,CMA,B.C.,114142
+Kelowna,CMA,B.C.,222162
+Ladysmith,CA,B.C.,15501
+Nanaimo,CMA,B.C.,115459
+Nelson,CA,B.C.,19119
+Parksville,CA,B.C.,31054
+Penticton,CA,B.C.,4738
+Port Alberni,CA,B.C.,25786
+Powell River,CA,B.C.,17825
+Prince George,CA,B.C.,8949
+Prince Rupert,CA,B.C.,13442
+Quesnel,CA,B.C.,23113
+Salmon Arm,CA,B.C.,19705
+Squamish,CA,B.C.,24232
+Terrace,CA,B.C.,19606
+Trail,CA,B.C.,14268
+Vancouver,CMA,B.C.,2642825
+Vernon,CA,B.C.,67086
+Victoria,CMA,B.C.,397237
+Williams Lake,CA,B.C.,23608
+Whitehorse,CA,Y.T.,31913
+Yellowknife,CA,N.W.T.,2034
