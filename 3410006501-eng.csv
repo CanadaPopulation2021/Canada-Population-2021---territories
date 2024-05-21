@@ -1,0 +1,62 @@
+﻿"Inventory of publicly owned culture, recreation and sport facilities, Infrastructure Canada 1 2"
+"Frequency: Occasional"
+"Table: 34-10-0065-01"
+"Release date: 2022-09-27"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Canada","Newfoundland and Labrador","Prince Edward Island","Nova Scotia","New Brunswick","Quebec","Ontario","Manitoba","Saskatchewan","Alberta","British Columbia","Yukon","Northwest Territories","Nunavut"
+"Culture, recreation and sports facilities","2020","2020","2020","2020","2020","2020","2020","2020","2020","2020","2020","2020","2020","2020"
+,"Number",,,,,,,,,,,,,
+"Indoor ice arenas, single pad","1,916A","83B","22C","37B","55A","338A","481A","159A","315A","250A","137A","7D","16C","17A"
+"Indoor ice arenas: multiple pads (two or more)","379A","4E","4E","7B","10C","50A","172A","19B","16D","61A","34B","1A","1A","0A"
+"Indoor ice arenas: Performance/spectator","274A","11D","F","10D","15B","51A","68A","9C","25C","46A","35A","1A","0A","0A"
+"Outdoor ice arenas","4,275A","36D","20C","9C","79A","2,103A","965A","283A","322B","394A","52B","F","12D","0A"
+"Curling rinks","725A","7E","F","7C","6C","30B","78A","92A","234B","182A","76A","4E","8D","1A"
+"Indoor pools, 25 metres","601A","22C","3E","7C","13B","99A","225A","13B","25D","94A","85A","7C","9D","1A"
+"Indoor pools, 50 metres or longer","70A","0A","0A","2C","2D","9B","17A","6B","4C","9B","20B","0A","0A","0A"
+"Indoor pools, leisure pools 3","130A","1E","F","2D","1A","21B","64A","1D","5C","8B","14B","6D","F","3A"
+"Outdoor pools","1,114A","24D","7D","17B","28B","459A","246A","47A","135B","88A","62B","F","0A","0A"
+"Outdoor spray parks/splash pads/wading pools","3,144A","19D","7D","27B","68A","1,173A","1,081A","139A","222B","217A","190B","1A","0A","0A"
+"Galleries","328A","7E","F","4C","10C","128A","72A","8C","23C","18B","55A","1A","0A","0A"
+"Libraries","2,938A","56C","34A","77A","50A","1,080A","781A","104A","280A","295A","150B","15A","11D","6A"
+"Museums and archives","1,604A","163C","62B","40C","24B","170B","433A","104A","232B","222A","139A","7C","4E","4A"
+"Presentation and performance spaces","821A","39C","4E","23B","32B","302A","141A","27A","85B","66A","97B","3E","0A","3A"
+"Indigenous culture facilities","69B","12E","0A","0A","0A","12D","5C","7B","13D","5C","8C","0A","4D","3A"
+"Community centres (senior and youth centres)","5,173A","220B","34B","77A","91A","1,832A","1,352A","301A","376A","493A","347A","10D","25C","15A"
+"Indoor gymnasiums","1,116A","58C","3E","17B","24C","321A","363A","51A","65B","89A","113A","3E","7D","4A"
+"Indoor racquet courts","411A","8E","8E","4E","19D","83B","153A","5E","20D","23B","85B","0A","F","2A"
+"Indoor walking/jogging tracks","351A","42C","8D","12C","17B","31D","105A","22A","29C","59A","22B","1A","3E","1A"
+"Indoor fitness areas","913A","46C","5D","16C","17B","137B","250A","46A","83B","172A","127A","7D","7D","1A"
+"Indoor fields","182A","2A","F","1E","3D","60B","50A","2A","11B","38A","9C","1A","2A","1A"
+"Outdoor speciality areas","3,994A","208B","16D","73B","39A","1,039A","877A","294A","302B","626A","508A","F","10D","0A"
+"Playgrounds","22,737A","582B","167C","166B","371A","5,210A","8,326A","911A","1,115B","3,781A","1,964A","63B","66C","13A"
+"Outdoor tennis and/or pickleball courts","7,329A","147B","52C","162A","165A","1,991A","2,667A","194A","240B","554A","1,146A","3E","9D","0A"
+"Ball diamonds","10,770A","221A","47C","124B","214A","1,486A","3,786A","601A","1,259A","1,780A","1,224A","6E","20D","3A"
+"Rectangular sports fields (natural turf)","9,755A","104B","54D","51B","75A","2,124A","3,990A","527A","352B","1,596A","878B","0A","F","2A"
+"Artificial turf sports fields","563A","6D","4E","6D","14C","251A","100A","5B","18E","43A","111A","0A","3E","3A"
+,"Kilometres",,,,,,,,,,,,,
+"Paved pathways (in kilometres)","13,615A","F","58D","17C","176B","2,255A","4,514A","369B","521B","3,897A","1,726A","25C","25D","0A"
+"Trails (non-paved) (in kilometres)","20,731A","1,106B","593A","441B","756A","4,903B","5,249A","839A","636B","1,237A","3,918A","869A","41E","143A"
+
+Symbol legend:
+E, use with caution
+F, too unreliable to be published
+A, data quality: excellent
+B, data quality: very good
+C, data quality: good
+D, data quality: acceptable
+
+
+
+
+Footnotes:
+1,"Figures may not add to totals due to rounding."
+2,"Due to changes in methodology and improved data availability, the inventory counts are not comparable between years.   Inventory counts for the year 2018 for municipalities may be overestimated. Census subdivisions, including unorganized and unincorporated areas, were included in the survey frame whereas only incorporated organizations were included for 2020."
+3,"As of 2018, indoor leisure pools facilities exclude those in combination with a 25-metre or 50-metre plus pool."
+
+
+
+"How to cite: Statistics Canada. Table 34-10-0065-01  Inventory of publicly owned culture, recreation and sport facilities, Infrastructure Canada"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410006501
